@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: url("http://www.sclance.com/backgrounds/game-show-background/game-show-background_1042505.jpg");
+}
+
+.jumbotron {
+    background-color: black;
+    color: yellow;
+}
+
+#time {
+    color: yellow;
+}
+
+#quiz {
+    color: yellow;
+}
+
+.choice {
+    cursor: pointer;
+    border: 1px solid lightgrey;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
