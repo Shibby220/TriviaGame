@@ -17,3 +17,5 @@ At the end of the game it will give you a summary of how many answers you got ri
 It will also present a button giving you the option to restart the game.
 
 Have fun!
+
+Link to deployed project: https://shibby220.github.io/GifTastic/
